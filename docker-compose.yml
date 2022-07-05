@@ -1,0 +1,14 @@
+version: "3.8"
+services:
+  api:
+    build:
+      context: .
+    volumes:
+      - .:/app/
+      - web:/app/web
+    command: ['./buildRun.sh']
+    ports:
+      - '8080:8080'
+volumes:
+  nodemodules: {} # Ignore local node modules
+  web: {} # Ignore web
