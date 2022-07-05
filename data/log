@@ -1,0 +1,574 @@
+Successfully Updated Pattern To EXPONENTIAL_BACKOFF
+Successfully Updated Pattern To EXP_WITH_JITTER
+Successfully Updated Pattern To CIRCUIT_BREAKER
+Successfully Updated Pattern To CIRCUIT_BREAKER
+Updated chance to 0.000010
+Updated chance to -0.100000
+Updated chance to -0.100000
+Updated chance to 100.000000
+Updated chance to 100.000000
+Updated chance to 75.000000
+Updated chance to 100.000000
+Updated chance to 100.000000
+Updated chance to 75.000000
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Updated chance to 75.000000
+Failed To Succeed - Returning Sad Image
+Failed To Succeed - Returning Sad Image
+Succeeded! - Returning Success Image
+Failed To Succeed - Returning Sad Image
+Failed To Succeed - Returning Sad Image
+Failed To Succeed - Returning Sad Image
+Failed To Succeed - Returning Sad Image
+Failed To Succeed - Returning Sad Image
+Failed To Succeed - Returning Sad Image
+Failed To Succeed - Returning Sad Image
+Failed To Succeed - Returning Sad Image
+Failed To Succeed - Returning Sad Image
+Failed To Succeed - Returning Sad Image
+Succeeded! - Returning Success Image
+Failed To Succeed - Returning Sad Image
+Failed To Succeed - Returning Sad Image
+Failed To Succeed - Returning Sad Image
+Failed To Succeed - Returning Sad Image
+Succeeded! - Returning Success Image
+Failed To Succeed - Returning Sad Image
+Failed To Succeed - Returning Sad Image
+Failed To Succeed - Returning Sad Image
+Failed To Succeed - Returning Sad Image
+Updated chance to 75.000000
+Successfully Updated Pattern To BACKOFF
+Failed To Succeed - Returning Sad Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Updated chance to 75.000000
+Successfully Updated Pattern To BACKOFF
+Succeeded! - Returning Success Image
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 4 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 3 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 2 tries remaining
+Succeeded! - Returning Success Image
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 4 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 3 tries remaining
+Succeeded! - Returning Success Image
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 4 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 3 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 2 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Updated chance to 75.000000
+Successfully Updated Pattern To EXPONENTIAL_BACKOFF
+Failed To Get A Success, Using Backoff Going To Retry In 100.000000ms, 4 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 10000.000000ms, 3 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 100000000.000000ms, 2 tries remaining
+Succeeded! - Returning Success Image
+Updated chance to 75.000000
+Successfully Updated Pattern To EXPONENTIAL_BACKOFF
+Failed To Get A Success, Using Backoff Going To Retry In 4.000000ms, 4 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 16.000000ms, 3 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 256.000000ms, 2 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 65536.000000ms, 1 tries remaining
+Updated chance to 75.000000
+Successfully Updated Pattern To EXPONENTIAL_BACKOFF
+Updated chance to 100.000000
+Failed To Get A Success, Using Backoff Going To Retry In 100.000000ms, 2 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 10000.000000ms, 1 tries remaining
+Updated chance to 100.000000
+Successfully Updated Pattern To EXPONENTIAL_BACKOFF
+Failed To Get A Success, Using Backoff Going To Retry In 16.000000ms, 2 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 256.000000ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 65536.000000ms, 0 tries remaining
+Succeeded! - Returning Success Image
+Updated chance to 100.000000
+Successfully Updated Pattern To EXPONENTIAL_BACKOFF
+Failed To Get A Success, Using Backoff Going To Retry In 16.000000ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 256.000000ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Failed To Get A Success, Using Backoff Going To Retry In 16.000000ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 256.000000ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Updated chance to 100.000000
+Successfully Updated Pattern To EXPONENTIAL_BACKOFF
+Failed To Get A Success, Using Backoff Going To Retry In 16.000000ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 256.000000ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Successfully Updated Pattern To CIRCUIT_BREAKER
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+Successfully Updated Pattern To CIRCUIT_BREAKER
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+Successfully Updated Pattern To EXPONENTIAL_BACKOFF
+Failed To Get A Success, Using Backoff Going To Retry In 16.000000ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 256.000000ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Failed To Get A Success, Using Backoff Going To Retry In 16.000000ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 256.000000ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Successfully Updated Pattern To CIRCUIT_BREAKER
+Successfully Updated Pattern To CIRCUIT_BREAKER
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Successfully Updated Pattern To CIRCUIT_BREAKER
+Updated chance to 100.000000
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+Updated chance to 1.000000
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Failed To Succeed - Returning Sad Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Failed To Succeed - Returning Sad Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Updated chance to 0.000000
+Updated chance to 25.000000
+Updated chance to 50.000000
+Updated chance to 75.000000
+Updated chance to 100.000000
+Failed To Succeed - Returning Sad Image
+Failed To Succeed - Returning Sad Image
+Failed To Succeed - Returning Sad Image
+Failed To Succeed - Returning Sad Image
+Failed To Succeed - Returning Sad Image
+Failed To Succeed - Returning Sad Image
+Successfully Updated Pattern To NO_PATTERN
+Successfully Updated Pattern To BACKOFF
+Successfully Updated Pattern To EXPONENTIAL_BACKOFF
+Successfully Updated Pattern To EXP_WITH_JITTER
+Successfully Updated Pattern To CIRCUIT_BREAKER
+Updated chance to 100.000000
+Successfully Updated Pattern To CIRCUIT_BREAKER
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+breaker exists and hasn't expired yet, do robot things
+Successfully Updated Pattern To EXPONENTIAL_BACKOFF
+Failed To Get A Success, Using Backoff Going To Retry In 16.000000ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 256.000000ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Failed To Get A Success, Using Backoff Going To Retry In 16.000000ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 256.000000ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Failed To Get A Success, Using Backoff Going To Retry In 16.000000ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 256.000000ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Failed To Get A Success, Using Backoff Going To Retry In 16.000000ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 256.000000ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Failed To Get A Success, Using Backoff Going To Retry In 16.000000ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 256.000000ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Successfully Updated Pattern To BACKOFF
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 4 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 3 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 2 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 4 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 3 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 2 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 4 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 3 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 2 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 4 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 3 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 2 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Updated chance to 0.000000
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Succeeded! - Returning Success Image
+Updated chance to 75.000000
+Successfully Updated Pattern To EXP_WITH_JITTER
+Failed To Get A Success, Using Backoff Going To Retry In 9ms, 4 tries remaining
+Succeeded! - Returning Success Image
+Failed To Get A Success, Using Backoff Going To Retry In 13ms, 4 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 158ms, 3 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 543ms, 2 tries remaining
+Succeeded! - Returning Success Image
+Failed To Get A Success, Using Backoff Going To Retry In 13ms, 4 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 134ms, 3 tries remaining
+Succeeded! - Returning Success Image
+Failed To Get A Success, Using Backoff Going To Retry In 2ms, 4 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 27ms, 3 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 8347ms, 2 tries remaining
+Succeeded! - Returning Success Image
+Updated chance to 100.000000
+Failed To Get A Success, Using Backoff Going To Retry In 12ms, 4 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 76ms, 3 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 735ms, 2 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 9854ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 2518ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Successfully Updated Pattern To EXPONENTIAL_BACKOFF
+Successfully Updated Pattern To BACKOFF
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 4 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 3 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 2 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Updated chance to 100.000000
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 4 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 3 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 2 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 4 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 3 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 2 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 4 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 3 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 2 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 4 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 3 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 2 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 300ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Successfully Updated Pattern To EXPONENTIAL_BACKOFF
+Failed To Get A Success, Using Backoff Going To Retry In 16.000000ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 256.000000ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Failed To Get A Success, Using Backoff Going To Retry In 16.000000ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 256.000000ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Failed To Get A Success, Using Backoff Going To Retry In 16.000000ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 256.000000ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Failed To Get A Success, Using Backoff Going To Retry In 16.000000ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 256.000000ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Failed To Get A Success, Using Backoff Going To Retry In 16.000000ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 256.000000ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Successfully Updated Pattern To EXP_WITH_JITTER
+Failed To Get A Success, Using Backoff Going To Retry In 14ms, 4 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 66ms, 3 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 8647ms, 2 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 690ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 9458ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Successfully Updated Pattern To EXP_WITH_JITTER
+Updated chance to 100.000000
+Failed To Get A Success, Using Backoff Going To Retry In 16ms, 4 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 208ms, 3 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 4476ms, 2 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 3950ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 7ms, 4 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 204ms, 3 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 906ms, 2 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 1063ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 716ms, 0 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 2902ms, 0 tries remaining
+Failed To Succeed - Returning Sad Image
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Successfully Updated Pattern To EXP_WITH_JITTER
+Updated chance to 100.000000
+Failed To Get A Success, Using Backoff Going To Retry In 9ms, 4 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 120ms, 3 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 3014ms, 2 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 2659ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 1148ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Updated chance to 100.000000
+Successfully Updated Pattern To EXPONENTIAL_BACKOFF
+Failed To Get A Success, Using Backoff Going To Retry In 16.000000ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 256.000000ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Failed To Get A Success, Using Backoff Going To Retry In 16.000000ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 256.000000ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Failed To Get A Success, Using Backoff Going To Retry In 16.000000ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 256.000000ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Failed To Get A Success, Using Backoff Going To Retry In 16.000000ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 256.000000ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Failed To Get A Success, Using Backoff Going To Retry In 16.000000ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 256.000000ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Failed To Get A Success, Using Backoff Going To Retry In 16.000000ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 256.000000ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Failed To Get A Success, Using Backoff Going To Retry In 16.000000ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 256.000000ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Failed To Get A Success, Using Backoff Going To Retry In 16.000000ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 256.000000ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Failed To Get A Success, Using Backoff Going To Retry In 16.000000ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 256.000000ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Failed To Get A Success, Using Backoff Going To Retry In 16.000000ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 256.000000ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Failed To Get A Success, Using Backoff Going To Retry In 16.000000ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 256.000000ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Failed To Get A Success, Using Backoff Going To Retry In 16.000000ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 256.000000ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Failed To Get A Success, Using Backoff Going To Retry In 16.000000ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 256.000000ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Failed To Get A Success, Using Backoff Going To Retry In 16.000000ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 256.000000ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
+Failed To Get A Success, Using Backoff Going To Retry In 16.000000ms, 1 tries remaining
+Failed To Get A Success, Using Backoff Going To Retry In 256.000000ms, 0 tries remaining
+Failed To Get A Success After Retrying 5 Times, Giving Up
+Failed To Succeed - Returning Sad Image
